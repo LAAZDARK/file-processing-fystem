@@ -1,0 +1,3 @@
+/home/laaz/Projects/tlapaleria/tlapaleria/bin/Release/tlapaleria.exe
+/home/laaz/Projects/tlapaleria/tlapaleria/obj/x86/Release/tlapaleria.csproj.CoreCompileInputs.cache
+/home/laaz/Projects/tlapaleria/tlapaleria/obj/x86/Release/tlapaleria.exe

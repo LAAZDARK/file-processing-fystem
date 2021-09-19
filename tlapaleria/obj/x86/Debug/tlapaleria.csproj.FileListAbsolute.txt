@@ -1,0 +1,5 @@
+/home/laaz/Projects/tlapaleria/tlapaleria/bin/Debug/tlapaleria.exe
+/home/laaz/Projects/tlapaleria/tlapaleria/bin/Debug/tlapaleria.pdb
+/home/laaz/Projects/tlapaleria/tlapaleria/obj/x86/Debug/tlapaleria.csproj.CoreCompileInputs.cache
+/home/laaz/Projects/tlapaleria/tlapaleria/obj/x86/Debug/tlapaleria.exe
+/home/laaz/Projects/tlapaleria/tlapaleria/obj/x86/Debug/tlapaleria.pdb

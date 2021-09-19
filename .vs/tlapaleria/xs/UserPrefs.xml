@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{14FB3029-9BB9-481C-8C41-6D4E3D671976}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tlapaleria/Program.cs">
+    <Files>
+      <File FileName="tlapaleria/Program.cs" Line="37" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.tlapaleria PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
