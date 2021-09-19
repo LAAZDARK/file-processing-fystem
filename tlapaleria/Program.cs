@@ -32,9 +32,9 @@ namespace tlapaleria
             string addressStore;
 
             // Variables generales
-            string path_products = @"/products.txt";
-            string path_employees = @"/empoyees.txt";
-            string path_stores = @"/stores.txt";
+            string path_products = @"c:\products.txt";
+            string path_employees = @"c:\empoyees.txt";
+            string path_stores = @"c:\stores.txt";
 
             string option;
             string[] readText;
