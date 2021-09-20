@@ -32,9 +32,9 @@ namespace tlapaleria
             string addressStore;
 
             // Variables generales
-            string path_products = @"c:\products.txt";
-            string path_employees = @"c:\empoyees.txt";
-            string path_stores = @"c:\stores.txt";
+            string path_products = @"products.txt";
+            string path_employees = @"empoyees.txt";
+            string path_stores = @"stores.txt";
 
             string option;
             string[] readText;
@@ -94,7 +94,7 @@ namespace tlapaleria
 
                                             File.WriteAllText(path_products, createText);
 
-
+                                            break;
 
                                         }
                                         Console.WriteLine("Ingrese codigo de producto");
@@ -231,7 +231,7 @@ namespace tlapaleria
                                             createText = idEmployee + " " + nameEmployee + " " + emailEmployee + " " + ageEmployee + " " + mobileEmployee + Environment.NewLine;
 
                                             File.WriteAllText(path_employees, createText);
-
+                                            break;
 
 
                                         }
@@ -370,7 +370,7 @@ namespace tlapaleria
 
                                             File.WriteAllText(path_stores, createText);
 
-
+                                            break;
 
                                         }
                                         Console.WriteLine("Ingrese codigo de tienda");
